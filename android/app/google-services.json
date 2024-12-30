@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562258906908",
+    "project_id": "park-x-4efcc",
+    "storage_bucket": "park-x-4efcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562258906908:android:cb54cfab6907d87f1a34d9",
+        "android_client_info": {
+          "package_name": "com.parkx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdL8be2YkBPi23E0LFxMREbEGjDDiWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562258906908:android:57474b678312c6661a34d9",
+        "android_client_info": {
+          "package_name": "com.SCWms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdL8be2YkBPi23E0LFxMREbEGjDDiWE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
